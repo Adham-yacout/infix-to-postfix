@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1662301796 source:e:\adham new life\c programs\infixtopostfix\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
